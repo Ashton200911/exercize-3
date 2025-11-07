@@ -1,2 +1,4 @@
 # exercize-3
-exercize testing physics objects and testing controlling physics objects
+(projectile test)
+tests for player projectiles
+tests for enemy movement and death
